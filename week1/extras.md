@@ -1,0 +1,3 @@
+- https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/PRB01
+- https://leetcode.com/problems/count-primes/description/
+- https://leetcode.com/problems/prime-palindrome/description/
