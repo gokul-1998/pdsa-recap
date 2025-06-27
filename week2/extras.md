@@ -1,0 +1,1 @@
+- https://neetcode.io/problems/binary-search?list=neetcode150
